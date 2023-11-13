@@ -1,0 +1,33 @@
+[
+	{
+		"name": "Chicken Alfredo",
+		"prep time": "1 hour",
+		"ingredients": "noodles, chicken, alfredo sauce"
+	
+	},
+	{
+		"name": "Chilli",
+		"prep time": "6 hours",
+		"ingredients": "beans, meat, tomato sauce"
+	},
+	{
+		"name": "Pulled Pork",
+		"prep time": "8 hours",
+		"ingredients": "pork chuck, root beer, barbecue sauce"
+	},
+	{
+		"name": "Spaghetti",
+		"prep time": "30 minutes",
+		"ingredients": "noodles, marinara, beef"
+	},
+	{
+		"name": "Grilled Cheese & Tomato soup",
+		"prep time": "30 minutes",
+		"ingredients": "bread, cheese, butter, tomato soup, milk"
+	},
+	{
+		"name": "Stir fry",
+		"prep time": "1 hour",
+		"ingredients": "rice, chicken, broccoli, soy sauce, teriyaki"
+	}
+]
